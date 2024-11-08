@@ -28,6 +28,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### To run the local server
 * Go to server folder
 * Install dependencies
+* Add token inside server.js file
 ```
 npm install
 ```
